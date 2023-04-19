@@ -75,13 +75,3 @@ can find code that produces that result in `tutorial.ipynb` jupyter notebook.
 ![Result image](./results/7.jpg)
 ![Result image](./results/0.jpg)
 
-<a name="work"></a>
-
-# Further Work
-
-For further enhancements like: Batch processing support for speedup, return of
-multiple suggestions, threshold fine-tuning for specific data, ect. contact me:
-
-My
-Linkedin: [Soso Sukhitashvili](https://www.linkedin.com/in/soso-sukhitashvili/)
-
