@@ -1,13 +1,6 @@
-# Table of Contents
-
-[Introduction](#introduction)
-
-[How to Run](#howtorun)
-
-[Resutls](#results)
-
-[Further Work](#work)
-<a name="introduction"/>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # Introduction
 
